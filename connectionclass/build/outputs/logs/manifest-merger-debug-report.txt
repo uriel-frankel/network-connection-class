@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\dreams\network-connection-class-master\connectionclass\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from H:\dreams\network-connection-class-master\connectionclass\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from H:\dreams\network-connection-class-master\connectionclass\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from H:\dreams\network-connection-class-master\connectionclass\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from H:\dreams\network-connection-class-master\connectionclass\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from H:\dreams\network-connection-class-master\connectionclass\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from H:\dreams\network-connection-class-master\connectionclass\src\main\AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from H:\dreams\network-connection-class-master\connectionclass\src\main\AndroidManifest.xml:3:11-57
+		INJECTED from H:\dreams\network-connection-class-master\connectionclass\src\main\AndroidManifest.xml
+		INJECTED from H:\dreams\network-connection-class-master\connectionclass\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from H:\dreams\network-connection-class-master\connectionclass\src\main\AndroidManifest.xml
+		ADDED from H:\dreams\network-connection-class-master\connectionclass\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from H:\dreams\network-connection-class-master\connectionclass\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from H:\dreams\network-connection-class-master\connectionclass\src\main\AndroidManifest.xml
+		ADDED from H:\dreams\network-connection-class-master\connectionclass\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from H:\dreams\network-connection-class-master\connectionclass\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\dreams\network-connection-class-master\connectionclass\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from H:\dreams\network-connection-class-master\connectionclass\src\main\AndroidManifest.xml:4:5-20
+uses-sdk
+INJECTED from H:\dreams\network-connection-class-master\connectionclass\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from H:\dreams\network-connection-class-master\connectionclass\src\main\AndroidManifest.xml
+INJECTED from H:\dreams\network-connection-class-master\connectionclass\src\main\AndroidManifest.xml
+INJECTED from H:\dreams\network-connection-class-master\connectionclass\src\main\AndroidManifest.xml
+INJECTED from H:\dreams\network-connection-class-master\connectionclass\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from H:\dreams\network-connection-class-master\connectionclass\src\main\AndroidManifest.xml
+		ADDED from H:\dreams\network-connection-class-master\connectionclass\src\main\AndroidManifest.xml
+		INJECTED from H:\dreams\network-connection-class-master\connectionclass\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\dreams\network-connection-class-master\connectionclass\src\main\AndroidManifest.xml
+		ADDED from H:\dreams\network-connection-class-master\connectionclass\src\main\AndroidManifest.xml
+		INJECTED from H:\dreams\network-connection-class-master\connectionclass\src\main\AndroidManifest.xml

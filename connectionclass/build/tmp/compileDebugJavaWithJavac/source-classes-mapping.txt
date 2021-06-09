@@ -1,0 +1,18 @@
+com/facebook/network/connectionclass/ByteArrayScanner.java
+ com.facebook.network.connectionclass.ByteArrayScanner
+com/facebook/network/connectionclass/ExponentialGeometricAverage.java
+ com.facebook.network.connectionclass.ExponentialGeometricAverage
+com/facebook/network/connectionclass/ConnectionQuality.java
+ com.facebook.network.connectionclass.ConnectionQuality
+com/facebook/network/connectionclass/DeviceBandwidthSampler.java
+ com.facebook.network.connectionclass.DeviceBandwidthSampler
+ com.facebook.network.connectionclass.DeviceBandwidthSampler$1
+ com.facebook.network.connectionclass.DeviceBandwidthSampler$DeviceBandwidthSamplerHolder
+ com.facebook.network.connectionclass.DeviceBandwidthSampler$SamplingHandler
+com/facebook/network/connectionclass/ConnectionClassManager.java
+ com.facebook.network.connectionclass.ConnectionClassManager
+ com.facebook.network.connectionclass.ConnectionClassManager$1
+ com.facebook.network.connectionclass.ConnectionClassManager$ConnectionClassManagerHolder
+ com.facebook.network.connectionclass.ConnectionClassManager$ConnectionClassStateChangeListener
+com/facebook/network/connectionclass/BuildConfig.java
+ com.facebook.network.connectionclass.BuildConfig

@@ -1,0 +1,3 @@
+include ':connectionclass'
+include ':app'
+rootProject.name = "Facebook Network Connection"
